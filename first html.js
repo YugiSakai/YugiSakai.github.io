@@ -1,1 +1,1 @@
-alert("this is an alert that my js is running")
+alert("<This is my first website hosted via the internet. Excuse the lack of content>")
