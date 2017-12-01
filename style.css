@@ -1,0 +1,17 @@
+p{
+ color: red;
+}
+
+a{
+color:blue;
+}
+
+body {
+    font-size: 14px;
+    color: green;
+}
+
+h1 {
+	color: rgb(100,100,100);
+	background-color: rgb(20,30,30);
+}
